@@ -1,0 +1,13 @@
+Write a function named filterEvenNumbers that takes in an array of 
+numbers and returns a new array with only the even numbers using the array filter method.
+
+Example:
+
+Input:
+
+filterEvenNumbers([1, 2, 3, 4, 5]);
+
+Output:
+
+
+[2, 4]
